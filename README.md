@@ -1,18 +1,52 @@
-<h1 align="center">Hi 👋, I'm Pranay Kothari</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# 👋 Hi, I'm Pranay!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pnk150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pnk150" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranay-kothari-2a38806b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-kothari-2a38806b/" height="30" width="40" /></a>
-</p>
+**Full Stack Developer** passionate about building user-friendly, robust, and scalable web applications. I’m dedicated to building seamless, user-friendly experiences while optimizing performance to ensure fast and efficient applications using modern technologies.
+ 🚀
 
-- 📫 How to reach me **pranay.kothari150@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peekeah&show_icons=true&locale=en&layout=compact" alt="peekeah" /></p>
+## 💻 Code Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peekeah&show_icons=true&locale=en" alt="peekeah" /></p>
+![My Stats](https://github-readme-stats.vercel.app/api?username=peekeah&show_icons=true&count_private=true)
+<!-- Update later
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peekeah&theme=vue-dark&PAT_1)](https://git.io/streak-stats)
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peekeah&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peekeah&" alt="peekeah" /></p>
+<!-- Add later
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peekeah&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+## 🚀 About Me
+
+- 🔭 I love coding and exploring new technologies! Right now, I’m learning how to build AI agent tools.  
+- 📝 I enjoy sharing my learning journey and collaborating with others to make the process exciting and rewarding.  
+- 🌐 Technology fascinates me, and I’m always curious to try out new tools, frameworks, and innovations to expand my skills.  
+- 🤝 I’m open to collaborating on exciting projects, sharing ideas, and building something amazing together.  
+
+
+## 🎮 My Projects
+
+- [Linkup](https://github.com/peeekeh/linkup) – A chat app where you can join communities and connect with like-minded people.  
+- [Postgen](https://github.com/peekeah/postgen) – An AI tool that generates descriptions for social media posts.
+- [Job Portal](https://github.com/peekeah/job-portal) – A platform that helps people find job opportunities and allows employers to post job openings.  
+
+
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?theme=light&i=react,nextjs,tailwind,nodejs,express,postgres,mongodb,aws,docker,jenkins,)](https://skillicons.dev)
+
+## 🌱 What I’m Learning Right Now
+- 🎨 Creating modern UI websites with a focus on sleek, user-friendly designs.
+- 🤖 Exploring AI agent development.  
+- 🚀 Learning to build chat apps using WebSockets.  
+- 🔧 Diving into advanced backend communication with Kafka and Kubernetes.  
+
+
+<!-- Note: Add later
+## 🏆 Fun Achievements
+
+- 🌟 I made my first game and shared it with my friends! 🏅
+- 🎉 I created a website all about my favorite dinosaurs! 🦕
+-->
+
+## 📬 Let’s Connect!
+Connect with me on [Twitter](https://twitter.com/peekeah_109)
