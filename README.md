@@ -27,8 +27,7 @@
 ## 🎮 My Projects
 
 - [Linkup](https://github.com/peeekeh/linkup) – A chat app where you can join communities and connect with like-minded people.  
-- [Postgen](https://github.com/peekeah/postgen) – An AI tool that generates descriptions for social media posts.
-- [Job Portal](https://github.com/peekeah/job-portal) – A platform that helps people find job opportunities and allows employers to post job openings.  
+- [Nexthire](https://github.com/peekeah/nexthire) – An AI-first hiring platform that matches applicants with jobs using optimized, role-specific resumes. 
 
 
 ## 🛠️ Tech Stack
