@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Pranay Kothari</h2>
+<h1>Pranay Kothari</h1>
 
 <p>Full stack engineer building AI-native products.<br/>
 Frontend · Backend · Applied AI</p>
@@ -57,18 +57,6 @@ Frontend · Backend · Applied AI</p>
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 
 ---
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peekeah&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=555555&bg_color=ffffff00)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peekeah&layout=compact&hide_border=true&title_color=6366f1&text_color=555555&bg_color=ffffff00)
-
-</div>
-
-<br/>
 
 <div align="center">
 <sub>Open to remote roles at early-stage startups &nbsp;·&nbsp; Build logs on <a href="https://x.com/peekeah_109">X @peekeah_109</a></sub>
